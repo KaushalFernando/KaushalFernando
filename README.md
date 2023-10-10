@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kaushalya Fernando</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshantrx&label=Profile%20views&color=0e75b6&style=flat" alt="dilshantrx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshantrx&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalyafernando" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshantrx" alt="dilshantrx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshantrx" alt="kaushalyafernando" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
