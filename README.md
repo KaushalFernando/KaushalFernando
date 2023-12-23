@@ -1,10 +1,10 @@
 <img src="https://asapkerala.gov.in/wp-content/uploads/2022/02/net.jpg">
-<h1 align="center">Hi 👋, I'm Kaushalya Fernando</h1>
+<h1 align="center">Hi 👋, I'm Pawan Fernando</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshantrx&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalyafernando" /> </p>*/
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaushalFernando&label=Profile%20views&color=0e75b6&style=flat" alt="KaushalFernando" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshantrx" alt="kaushalyafernando" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaushalFernando" alt="KaushalFernando" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,8 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshantrx&show_icons=true&locale=en&layout=compact" alt="dilshantrx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaushalFernando&show_icons=true&locale=en&layout=compact" alt="KaushalFernando" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshantrx&show_icons=true&locale=en" alt="dilshantrx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaushalFernando&show_icons=true&locale=en" alt="KaushalFernando" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshantrx&" alt="dilshantrx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaushalFernando&" alt="KaushalFernando" /></p>
